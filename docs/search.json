@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "blogs.html",
+    "href": "blogs.html",
+    "title": "BLOGS",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nApr 9, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nApr 6, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Feng Sang",
+    "section": "",
+    "text": "Currently I am a doctoral student of State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University, working at the Center for Beijing Aging Brain Rejuvenation Initiative (BABRI) (PI: Prof. Zhanjun Zhang).\nMy current research mainly focuses on using machine learning methods and novel modeling methods to explore relationship between cognitive aging and brain structure and function, as well as the lifespan pattern of brain network.\nResearchGate: https://www.researchgate.net/profile/Feng-Sang\n\n\n\nBeijing Normal University | Beijing, China\nPhD in Cognitive neuroscience | Sept 2017 - June 2023 (excepted)\nLanzhou University | Lanzhou, China\nB.S. in Computer science and techology | Sept 2013 - June 2017"
+  },
+  {
+    "objectID": "index.html#profile",
+    "href": "index.html#profile",
+    "title": "Feng Sang",
+    "section": "",
+    "text": "Currently I am a doctoral student of State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University, working at the Center for Beijing Aging Brain Rejuvenation Initiative (BABRI) (PI: Prof. Zhanjun Zhang).\nMy current research mainly focuses on using machine learning methods and novel modeling methods to explore relationship between cognitive aging and brain structure and function, as well as the lifespan pattern of brain network.\nResearchGate: https://www.researchgate.net/profile/Feng-Sang"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Feng Sang",
+    "section": "",
+    "text": "Beijing Normal University | Beijing, China\nPhD in Cognitive neuroscience | Sept 2017 - June 2023 (excepted)\nLanzhou University | Lanzhou, China\nB.S. in Computer science and techology | Sept 2013 - June 2017"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "papers.html",
+    "href": "papers.html",
+    "title": "PAPERS",
+    "section": "",
+    "text": "Li, Z., Wang, W., Sang, F., Zhang, Z., & Li, X. (2023). White matter changes underlie hypertension-related cognitive decline in older adults. NeuroImage: Clinical, 103389. https://doi.org/10.1016/j.nicl.2023.103389\nSang, F., Xu, K., & Chen, Y. (2023). Brain Network Organization and Aging. In Cognitive Aging and Brain Health (pp. 99-108). Singapore: Springer Nature Singapore. https://doi.org/10.1007/978-981-99-1627-6_8\nDang, M., Sang, F., Long, S., & Chen, Y. (2023). The Aging Patterns of Brain Structure, Function, and Energy Metabolism. In Cognitive Aging and Brain Health (pp. 85-97). Singapore: Springer Nature Singapore. https://doi.org/10.1007/978-981-99-1627-6_7\n\n\n\n\n\nYang, Y., Chen, Y., Sang, F., Zhao, S., Wang, J., Li, X., … & Zhang, Z. (2022). Successful or pathological cognitive aging? Converging into a” frontal preservation, temporal impairment (FPTI)” hypothesis. Science bulletin, 67(22), 2285-2290. https://doi.org/10.1016/j.scib.2022.11.004\nZhou, D.-A., Xu, K., Zhao, X., Chen, Q., Sang, F., Fan, D., Su, L., Zhang, Z., Ai, L., & Chen, Y. (2022). Spatial Distribution and Hierarchical Clustering of β-Amyloid and Glucose Metabolism in Alzheimer’s Disease. Frontiers in Aging Neuroscience, 14, 788567. https://doi.org/10.3389/fnagi.2022.788567\n\n\n\n\n\nSang, F.#, Chen, Y#., Chen, K., Dang, M., Gao, S., & Zhang, Z. (2021). Sex Differences in Cortical Morphometry and White Matter Microstructure During Brain Aging and Their Relationships to Cognition. Cerebral Cortex, 31(11), 5253–5262. https://doi.org/10.1093/cercor/bhab155\n\n\n\n\n\nGao, S., Chen, Y., Sang, F., Yang, Y., Xia, J., Li, X., Zhang, J., Chen, K., & Zhang, Z. (2019). White Matter Microstructural Change Contributes to Worse Cognitive Function in Patients With Type 2 Diabetes. Diabetes, 68(11), 2085–2094. https://doi.org/10.2337/db19-0233"
+  },
+  {
+    "objectID": "papers.html#publications",
+    "href": "papers.html#publications",
+    "title": "PAPERS",
+    "section": "",
+    "text": "Li, Z., Wang, W., Sang, F., Zhang, Z., & Li, X. (2023). White matter changes underlie hypertension-related cognitive decline in older adults. NeuroImage: Clinical, 103389. https://doi.org/10.1016/j.nicl.2023.103389\nSang, F., Xu, K., & Chen, Y. (2023). Brain Network Organization and Aging. In Cognitive Aging and Brain Health (pp. 99-108). Singapore: Springer Nature Singapore. https://doi.org/10.1007/978-981-99-1627-6_8\nDang, M., Sang, F., Long, S., & Chen, Y. (2023). The Aging Patterns of Brain Structure, Function, and Energy Metabolism. In Cognitive Aging and Brain Health (pp. 85-97). Singapore: Springer Nature Singapore. https://doi.org/10.1007/978-981-99-1627-6_7\n\n\n\n\n\nYang, Y., Chen, Y., Sang, F., Zhao, S., Wang, J., Li, X., … & Zhang, Z. (2022). Successful or pathological cognitive aging? Converging into a” frontal preservation, temporal impairment (FPTI)” hypothesis. Science bulletin, 67(22), 2285-2290. https://doi.org/10.1016/j.scib.2022.11.004\nZhou, D.-A., Xu, K., Zhao, X., Chen, Q., Sang, F., Fan, D., Su, L., Zhang, Z., Ai, L., & Chen, Y. (2022). Spatial Distribution and Hierarchical Clustering of β-Amyloid and Glucose Metabolism in Alzheimer’s Disease. Frontiers in Aging Neuroscience, 14, 788567. https://doi.org/10.3389/fnagi.2022.788567\n\n\n\n\n\nSang, F.#, Chen, Y#., Chen, K., Dang, M., Gao, S., & Zhang, Z. (2021). Sex Differences in Cortical Morphometry and White Matter Microstructure During Brain Aging and Their Relationships to Cognition. Cerebral Cortex, 31(11), 5253–5262. https://doi.org/10.1093/cercor/bhab155\n\n\n\n\n\nGao, S., Chen, Y., Sang, F., Yang, Y., Xia, J., Li, X., Zhang, J., Chen, K., & Zhang, Z. (2019). White Matter Microstructural Change Contributes to Worse Cognitive Function in Patients With Type 2 Diabetes. Diabetes, 68(11), 2085–2094. https://doi.org/10.2337/db19-0233"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  }
+]

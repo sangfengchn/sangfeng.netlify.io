@@ -1,0 +1,30 @@
+---
+title: "PAPERS"
+page-layout: full
+title-block-banner: true
+---
+
+## PUBLICATIONS
+
+### 2023
+
+- Li, Z., Wang, W., Sang, F., Zhang, Z., & Li, X. (2023). White matter changes underlie hypertension-related cognitive decline in older adults. NeuroImage: Clinical, 103389.
+ [https://doi.org/10.1016/j.nicl.2023.103389](https://doi.org/10.1016/j.nicl.2023.103389)
+
+- Sang, F., Xu, K., & Chen, Y. (2023). Brain Network Organization and Aging. In Cognitive Aging and Brain Health (pp. 99-108). Singapore: Springer Nature Singapore. [https://doi.org/10.1007/978-981-99-1627-6_8](https://doi.org/10.1007/978-981-99-1627-6_8)
+
+- Dang, M., Sang, F., Long, S., & Chen, Y. (2023). The Aging Patterns of Brain Structure, Function, and Energy Metabolism. In Cognitive Aging and Brain Health (pp. 85-97). Singapore: Springer Nature Singapore. [https://doi.org/10.1007/978-981-99-1627-6_7](https://doi.org/10.1007/978-981-99-1627-6_7)
+
+### 2022
+
+- Yang, Y., Chen, Y., Sang, F., Zhao, S., Wang, J., Li, X., ... & Zhang, Z. (2022). Successful or pathological cognitive aging? Converging into a" frontal preservation, temporal impairment (FPTI)" hypothesis. Science bulletin, 67(22), 2285-2290. [https://doi.org/10.1016/j.scib.2022.11.004](https://doi.org/10.1016/j.scib.2022.11.004)
+
+- Zhou, D.-A., Xu, K., Zhao, X., Chen, Q., Sang, F., Fan, D., Su, L., Zhang, Z., Ai, L., & Chen, Y. (2022). Spatial Distribution and Hierarchical Clustering of β-Amyloid and Glucose Metabolism in Alzheimer’s Disease. Frontiers in Aging Neuroscience, 14, 788567. [https://doi.org/10.3389/fnagi.2022.788567](https://doi.org/10.3389/fnagi.2022.788567)
+
+### 2021
+
+- Sang, F.#, Chen, Y#., Chen, K., Dang, M., Gao, S., & Zhang, Z. (2021). Sex Differences in Cortical Morphometry and White Matter Microstructure During Brain Aging and Their Relationships to Cognition. Cerebral Cortex, 31(11), 5253–5262. [https://doi.org/10.1093/cercor/bhab155](https://doi.org/10.1093/cercor/bhab155)
+
+### 2019
+
+- Gao, S., Chen, Y., Sang, F., Yang, Y., Xia, J., Li, X., Zhang, J., Chen, K., & Zhang, Z. (2019). White Matter Microstructural Change Contributes to Worse Cognitive Function in Patients With Type 2 Diabetes. Diabetes, 68(11), 2085–2094. [https://doi.org/10.2337/db19-0233](https://doi.org/10.2337/db19-0233)

@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 6c31dc97-56d9-4a73-abb7-ce30b4847b21
+      url: 'https://sangfengchn.netlify.app'

@@ -1,0 +1,37 @@
+---
+title: "Feng Sang"
+image: profile.png
+about:
+  template: trestles
+  image-width: 10em
+  image-shape: round
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/sangfengchn
+    - text: E-mail
+      href: mailto:sangfengchn@outlook.com
+    - text: CV
+      href: sangf_cv.pdf
+---
+::: {.column-page}
+
+## Profile
+
+Currently I am a doctoral student of State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University, working at the Center for Beijing Aging Brain Rejuvenation Initiative (BABRI) (PI: Prof. Zhanjun Zhang). 
+
+My current research mainly focuses on using machine learning methods and novel modeling methods to explore relationship between cognitive aging and brain structure and function, as well as the lifespan pattern of brain network.
+
+**ResearchGate**: [https://www.researchgate.net/profile/Feng-Sang](https://www.researchgate.net/profile/Feng-Sang)
+
+## Education
+
+**Beijing Normal University** | *Beijing*, China
+
+PhD in Cognitive neuroscience | Sept 2017 - June 2023 (excepted)
+
+**Lanzhou University** | *Lanzhou*, China
+
+B.S. in Computer science and techology | Sept 2013 - June 2017
+
+:::
